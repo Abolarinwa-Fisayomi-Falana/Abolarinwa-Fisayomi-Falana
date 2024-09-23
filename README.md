@@ -1,4 +1,4 @@
-Hello, my name is Abolarina (Fisayomi) Falana He/Him
+Hello, my name is Abolarina (Fisayomi) Falana - He/Him
 
 I have a passion for data and have used this passion to gain over 4 years of experience analyzing data to deliver insights to a wide range of audiences.
 I have used a range of tools such as SQL, Python, Tableau, Metabase, PowerPoint / Slides, Excel / Sheets, and Word
